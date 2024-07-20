@@ -53,6 +53,7 @@ Hi, I'm Dibyadyuti! I'm currently pursuing a bachelor's in Computer Science Engi
 - **Python Skill Assessment - HackerRank** (May 2024)
 - **Java Skill Assessment - HackerRank** (Mar 2024)
 - **Career Essentials in Cybersecurity - Microsoft & LinkedIn** (Mar 2024)
+- **GitHub Foundations Certification - GitHub** (July 2024)
 
 ## Connect with Me
 
