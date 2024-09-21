@@ -1,6 +1,6 @@
 # About Me
 
-Hi, I'm Dibyadyuti! I'm currently pursuing a bachelor's in Computer Science Engineering. I am passionate about coding with experience in Java and Python and with a keen interest in AI/ML and Cybersecurity.
+Hi, I'm Dibyadyuti! I'm currently pursuing a bachelor's in Computer Science Engineering. I am passionate about coding with experience in Java and Python and with a keen interest in Web Development and Cybersecurity.
 
 ## Technical Skills
 
