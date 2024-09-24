@@ -4,10 +4,11 @@ Hi, I'm Dibyadyuti! I'm currently pursuing a bachelor's in Computer Science Engi
 
 ## Technical Skills
 
-- **Languages:** 
+- **TechStack:** 
+  - GitHub
+  - Git
   - Java
   - Python
-  - C++
   - HTML
   - CSS
   - JavaScript
@@ -47,13 +48,12 @@ Hi, I'm Dibyadyuti! I'm currently pursuing a bachelor's in Computer Science Engi
 
 ## Certifications
 
-- **Statify Data Science Bootcamp - Statify** (Jul 2024)
+- **[GitHub Foundations Certification - GitHub](https://www.credly.com/badges/0a1d00bb-fc89-49d4-8d1a-71cb37d78435)** (July 2024)
 - **Fundamentals of Accelerated Computing and Fundamentals of Deep Learning - NVIDIA** (Jun 2024)
-- **Certificate of Excellence in Java Programming Quiz - Unstop** (May 2024)
 - **Python Skill Assessment - HackerRank** (May 2024)
 - **Java Skill Assessment - HackerRank** (Mar 2024)
+- **[CS50's Introduction to Cybersecurity - CS50](https://cs50.harvard.edu/certificates/802fda60-7892-461e-82fb-7956cb38b605)** (Aug 2024)
 - **Career Essentials in Cybersecurity - Microsoft & LinkedIn** (Mar 2024)
-- **GitHub Foundations Certification - GitHub** (July 2024)
 
 ## Connect with Me
 
