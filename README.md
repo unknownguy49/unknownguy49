@@ -2,17 +2,16 @@
 
 Hi, I'm Dibyadyuti! I'm currently pursuing a bachelor's in Computer Science Engineering. I am passionate about coding with experience in Java and Python and with a keen interest in Web Development and Cybersecurity.
 
-## Technical Skills
+## TechStack
 
-- **TechStack:** 
-  - GitHub
-  - Git
-  - Java
-  - Python
-  - HTML
-  - CSS
-  - JavaScript
-  - SQL
+- GitHub
+- Git
+- Java
+- Python
+- HTML
+- CSS
+- JavaScript
+- SQL
 
 ## Experience
 
