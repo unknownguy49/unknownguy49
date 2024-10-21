@@ -38,11 +38,11 @@ Hi, I'm Dibyadyuti! I'm currently pursuing a bachelor's in Computer Science Engi
 
 ## Education
 
-**Bachelor of Technology in Computer Science**  
-Vellore Institute of Technology, AP (2023 - Present)
+- **Bachelor of Technology in Computer Science**  
+  Vellore Institute of Technology, AP (2023 - Present)
 
-**Computer Science Student**  
-Adamas International School (2009 - 2023)
+- **Computer Science Student**  
+  Adamas International School (2009 - 2023)
 
 ## Certifications
 
