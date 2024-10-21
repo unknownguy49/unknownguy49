@@ -4,29 +4,23 @@ Hi, I'm Dibyadyuti! I'm currently pursuing a bachelor's in Computer Science Engi
 
 ## TechStack
 
-- GitHub
-- Git
-- Java
-- Python
-- HTML
-- CSS
-- JavaScript
-- SQL
+- **Languages:** Java, Python, C, HTML, CSS, JavaScript, SQL
+- **Tools:** Git, GitHub, Figma, Vercel
 
 ## Experience
 
 - **CSI Chapter VIT-AP (Oct 2023 - Present):**
   - Development Team Member (Oct 2024 - Present)
-    - Collaborated with team members to design and implement innovative software solutions, focusing on usability and functionality. Assisted in debugging and optimizing code, improving performance and efficiency across projects.
-    - Engaged in thorough code reviews and contributed to documentation, ensuring adherence to best practices and fostering a culture of continuous learning within the team.
+    - Collaborated with team members to create user-friendly software solutions, focusing on enhancing functionality and performance.
+    - Conducted code reviews and contributed to documentation, promoting best practices and continuous learning.
   - V-CODE Team Member (Oct 2023 - Oct 2024)
-    - Developed comprehensive coding tutorials and resources, enhancing members' understanding of various programming languages and frameworks. Organized hands-on workshops and hackathons, resulting in improved member participation and skill development.
-    - Provided one-on-one mentorship for students in coding competitions, offering guidance on problem-solving strategies and coding best practices.
+    - Developed engaging coding tutorials and resources, facilitating hands-on workshops and hackathons to boost member skills.
+    - Provided mentorship for students in coding competitions, guiding them on effective problem-solving strategies.
 
 - **Microsoft Student Chapter VIT-AP (Mar 2024 - Present):**
-  - Outreach Team Member
-    - Researched industry experts and professionals on LinkedIn to identify potential speakers, focusing on relevance to current trends and technologies.
-    - Successfully reached out to potential speakers, securing commitments for webinars that promote knowledge sharing and networking among members.
+  - Outreach Team Member (Mar 2024 - Present)
+    - Identified and connected with industry experts on LinkedIn to secure insightful speakers for webinars.
+    - Fostered knowledge sharing and networking by successfully arranging webinars with relevant industry professionals.
 
 ## Projects
 
@@ -44,8 +38,11 @@ Hi, I'm Dibyadyuti! I'm currently pursuing a bachelor's in Computer Science Engi
 
 ## Education
 
-- **Bachelor of Technology in Computer Science, Vellore Institute of Technology AP (2023 - Present)**
-- **Student in Computer Science, Adamas International School (2009 - 2023)**
+**Bachelor of Technology in Computer Science**  
+Vellore Institute of Technology, AP (2023 - Present)
+
+**Computer Science Student**  
+Adamas International School (2009 - 2023)
 
 ## Certifications
 
