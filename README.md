@@ -3,13 +3,9 @@
 </div>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/dibyadyuti-dutta/" target="_blank" rel="noopener noreferrer">
-    <svg xmlns="http://www.w3.org/2000/svg" height="28" viewBox="0 0 150 40">
-        <rect width="160" height="40" fill="#0A66C2"/>
-        <path transform="translate(10,8) scale(1)" fill="#fff" d="M20.447 20.452H17.21v-5.569c0-1.328-.027-3.037-1.85-3.037-1.851 0-2.134 1.444-2.134 2.938v5.668H9.088V9h3.105v1.561h.045c.433-.823 1.49-1.688 3.067-1.688 3.283 0 3.886 2.16 3.886 4.972v6.607zM5.337 7.433a1.804 1.804 0 1 1 0-3.608 1.804 1.804 0 0 1 0 3.608zM6.97 20.452H3.704V9h3.266v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.228.792 24 1.771 24h20.451C23.2 24 24 23.228 24 22.271V1.729C24 .774 23.2 0 22.225 0z"/>
-        <text x="45" y="26" font-family="Verdana, sans-serif" font-size="16" font-weight="600" fill="white">LINKEDIN</text>
-    </svg>
-    </a>
+  <a href="mailto:dibyadyutidutta49@gmail.com">
+    <img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link=linkedin.com/in/dibyadyuti-dutta" />
+  </a>
   <a href="mailto:dibyadyutidutta49@gmail.com">
     <img src="https://img.shields.io/badge/-GMAIL-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dibyadyutidutta49@gmail.com" />
   </a>
