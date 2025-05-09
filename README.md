@@ -341,37 +341,22 @@
 </div>
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
         <a href="https://www.credly.com/badges/0a1d00bb-fc89-49d4-8d1a-71cb37d78435">
           <img src="https://img.shields.io/badge/Foundations-GitHub-6E56CF?style=for-the-badge&logo=github" alt="GitHub Foundations"/>
         </a>
-      </td>
-      <td align="center">
         <a href="#">
           <img src="https://img.shields.io/badge/Deep_Learning-NVIDIA-76B900?style=for-the-badge&logo=nvidia" alt="NVIDIA Deep Learning"/>
         </a>
-      </td>
-      <td align="center">
         <a href="https://cs50.harvard.edu/certificates/802fda60-7892-461e-82fb-7956cb38b605">
           <img src="https://img.shields.io/badge/Cybersecurity-CS50-A41034?style=for-the-badge&logo=edx" alt="CS50 Cybersecurity"/>
         </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
+        <br>
         <a href="#">
           <img src="https://img.shields.io/badge/Python-HackerRank-2EC866?style=for-the-badge&logo=hackerrank" alt="Python HackerRank"/>
         </a>
-      </td>
-      <td align="center">
         <a href="#">
           <img src="https://img.shields.io/badge/Java-HackerRank-2EC866?style=for-the-badge&logo=hackerrank" alt="Java HackerRank"/>
         </a>
-      </td>
-    </tr>
-  </table>
 </div>
 
 <br>
