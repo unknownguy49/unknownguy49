@@ -382,7 +382,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=unknownguy1805&bg_color=0D1117&color=6E56CF&line=DD6387&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=unknownguy49&bg_color=0D1117&color=6E56CF&line=DD6387&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph">
 </div>
 
 <br>
@@ -392,5 +392,5 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=unknownguy49&style=for-the-badge&color=6E56CF" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=unknownguy1805&style=for-the-badge&color=6E56CF" alt="Profile Views" />
 </div>
