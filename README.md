@@ -144,7 +144,7 @@
           <p>Oct 2024 - Present</p>
         </td>
         <td width="15%" align="center">
-          <img src="assets/csi.png" width="80" height="80">
+          <img src="assets/csi.png" max-width="80" max-height="80">
         </td>
         <td width="40%" align="left">
           <ul>
@@ -161,7 +161,7 @@
           <p>Mar 2024 - Present</p>
         </td>
         <td width="15%" align="center">
-          <img src="assets/msc.png" width="60" height="60">
+          <img src="assets/msc.png" max-width="60" max-height="60">
         </td>
         <td width="40%" align="left">
           <ul>
