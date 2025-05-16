@@ -263,7 +263,7 @@
       <td width="50%">
         <div align="center">
             <h3>NGL Clone</h3>
-            <img src="https://dibyadyuti.vercel.app/assets/img5.jpg" alt="NGL Clone" width="70%">
+            <img src="assets/ngl.png" alt="NGL Clone" width="70%">
             <p>A personalized clone of the NGL anonymous messaging platform, allowing me to receive anonymous messages. Features a basic admin interface for message viewing.</p>
             <div>
             <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
