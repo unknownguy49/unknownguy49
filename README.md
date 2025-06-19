@@ -342,7 +342,7 @@
 
 <div align="center">
         <a href="https://www.credly.com/badges/0a1d00bb-fc89-49d4-8d1a-71cb37d78435">
-          <img src="https://img.shields.io/badge/Foundations-GitHub-6E56CF?style=for-the-badge&logo=github" alt="GitHub Foundations"/>
+          <img src="https://img.shields.io/badge/Foundations-GitHub-333333?style=for-the-badge&logo=github" alt="GitHub Foundations"/>
         </a>
         <a href="#">
           <img src="https://img.shields.io/badge/Deep_Learning-NVIDIA-76B900?style=for-the-badge&logo=nvidia" alt="NVIDIA Deep Learning"/>
@@ -358,7 +358,7 @@
           <img src="https://img.shields.io/badge/Java-HackerRank-2EC866?style=for-the-badge&logo=hackerrank" alt="Java HackerRank"/>
         </a>
         <a href="#">
-          <img src="https://img.shields.io/badge/AZ-900-Microsoft-2EC866?style=for-the-badge&logo=microsoft" alt="Microsoft AZ-900"/>
+          <img src="https://img.shields.io/badge/AZ900-Microsoft-F3F3F3?style=for-the-badge&logo=microsoft" alt="Microsoft AZ-900"/>
         </a>
 </div>
 
