@@ -357,6 +357,9 @@
         <a href="#">
           <img src="https://img.shields.io/badge/Java-HackerRank-2EC866?style=for-the-badge&logo=hackerrank" alt="Java HackerRank"/>
         </a>
+        <a href="#">
+          <img src="https://img.shields.io/badge/AZ-900-Microsoft-2EC866?style=for-the-badge&logo=microsoft" alt="Microsoft AZ-900"/>
+        </a>
 </div>
 
 <br>
