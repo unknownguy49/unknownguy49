@@ -156,9 +156,59 @@
       </tr>
       <tr>
         <td width="50%" align="right">
+          <h3 style="margin-bottom:10px">ACM Student Chapter<br>VIT-AP</h3>
+          <p><em>Project and Research Team Lead</em></p>
+          <p>Sept 2025 - Present</p>
+        </td>
+        <td width="15%" align="center">
+          <img src="assets/acm.png" max-width="60" max-height="60">
+        </td>
+        <td width="40%" align="left">
+          <ul>
+            <li>Coordinated project planning and delivery</li>
+            <li>Mentored team members in technical projects and research</li>
+            <li>Presented project outcomes at chapter events</li>         
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td width="50%" align="right">
+          <h3 style="margin-bottom:10px">Null Chapter VIT-AP</h3>
+          <p><em>Technical Team Member</em></p>
+          <p>Aug 2025 - Present</p>
+        </td>
+        <td width="15%" align="center">
+          <img src="assets/null.png" max-width="60" max-height="60">
+        </td>
+        <td width="40%" align="left">
+          <ul>
+            <li>Assisted in developing cybersecurity solutions</li>
+            <li>Contributed to building CTF challenges</li>
+            <li>Supported technical workshops on events</li>         
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td width="50%" align="right">
+          <h3 style="margin-bottom:10px">Open Source Community VIT-AP</h3>
+          <p><em>Technical Team Member</em></p>
+          <p>Oct 2024 - Aug 2025</p>
+        </td>
+        <td width="15%" align="center">
+          <img src="assets/osc.png" max-width="60" max-height="60">
+        </td>
+        <td width="40%" align="left">
+          <ul>
+            <li>Contributed to open source projects</li>
+            <li>Reviewed and improved code for community-driven repositories</li>
+            <li>Supported technical workshops</li>         </ul>
+        </td>
+      </tr>
+      <tr>
+        <td width="50%" align="right">
           <h3 style="margin-bottom:10px">Microsoft Student Chapter VIT-AP</h3>
           <p><em>Outreach Team Member</em></p>
-          <p>Mar 2024 - Present</p>
+          <p>Mar 2024 - May 2025</p>
         </td>
         <td width="15%" align="center">
           <img src="assets/msc.png" max-width="60" max-height="60">
@@ -359,6 +409,10 @@
         </a>
         <a href="#">
           <img src="https://img.shields.io/badge/AZ900-Microsoft-F3F3F3?style=for-the-badge&logo=microsoft" alt="Microsoft AZ-900"/>
+        </a>
+        <br>
+        <a href="#">
+          <img src="https://img.shields.io/badge/OCI_Foundations_Associate-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI Foundations Associate"/>
         </a>
 </div>
 
