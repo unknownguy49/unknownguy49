@@ -25,12 +25,8 @@
 <table align="center" border="0">
   <tr border="0">
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=unknownguy49&show_icons=true&theme=aura&border_color=6E56CF&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=unknownguy49&theme=aura&hide_border=true&background=0D1117&stroke=6E56CF&ring=6E56CF&fire=DD6387&currStreakLabel=DD6387" alt="GitHub Streak" />
     </td>
-  </tr>
 </table>
 
 <br>
@@ -424,19 +420,6 @@
     <span style="color: #0A66C2; border-bottom: 2px solid #DD6387; padding-bottom: 6px;">GitHub Analytics</span>
   </h2>
 </div>
-
-<p align="center">
-  <a href="https://github.com/yourusername">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=unknownguy49&show_icons=true&theme=aura&include_all_commits=true&count_private=true&bg_color=0D1117&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unknownguy49&layout=compact&langs_count=7&theme=aura&bg_color=0D1117&hide_border=true"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=unknownguy49&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophy" />
-</p>
-
-<br>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=unknownguy49&bg_color=0D1117&color=6E56CF&line=DD6387&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph">
